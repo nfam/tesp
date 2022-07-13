@@ -1,4 +1,4 @@
-package goextract
+package tesp
 
 // ("item": slice | [slice | null] )?
 type valueItem struct {

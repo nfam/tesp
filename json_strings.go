@@ -1,4 +1,4 @@
-package goextract
+package tesp
 
 type jsonStrings struct {
 	set   bool

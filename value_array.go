@@ -1,4 +1,4 @@
-package goextract
+package tesp
 
 import (
 	"log"

@@ -1,4 +1,4 @@
-package goextract
+package tesp
 
 type valuePlugin struct {
 	jsonStrings

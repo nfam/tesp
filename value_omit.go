@@ -1,4 +1,4 @@
-package goextract
+package tesp
 
 type valueOmit struct {
 	jsonBool
